@@ -72,4 +72,4 @@ export const ERROR_LOG_ROUTE: AppRouteRecordRaw = {
   ],
 };
 
-export const CES_ROUTE = () => import('/@/views/example/CesShopList.vue');
+// export const CES_ROUTE = () => import('/@/views/example/CesShopList.vue');
